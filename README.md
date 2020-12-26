@@ -17,6 +17,6 @@
 
     Use the power of the `copy()` function and add newlines into a new buffer from a string slice.
 
-5. **[Print Daily Requests](https://github.com/4ppe/Go-Exercises/tree/main/slices/print-daily-requestss)**
+5. **[Print Daily Requests](https://github.com/4ppe/Go-Exercises/tree/main/slices/print-daily-requests)**
 
     Group the web request logs into a multi-dimensional slice. Allocate a slice with the exact size needed by doing some wizardary calculations. And lastly, pretty print the result.
