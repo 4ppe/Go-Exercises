@@ -1,5 +1,5 @@
 # Go Exercises
-## Slice Exercises
+## Slice
 
 1. **[Practice Advanced Slice Operations](https://github.com/4ppe/Go-Exercises/tree/main/slices/adv-ops-practice)**
 
